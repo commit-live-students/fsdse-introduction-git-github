@@ -24,7 +24,7 @@ After this lesson, you'll be able to
 * Assorted Tips
 
 ## Slides
-@[gslides](1Ybi0bXImYeN8kyMXFszoR6dZf-hYoscdGu9oxd1ziBE)
+@[gslides](1X206Yg3xph-S6zZuedxZ-_cmQC6vFgRbgIYR6_sXjS4)
 
 ## Assignments
 * [Assignment 1](https://github.com/commit-live-students/fsdse-fsdse-git-github-assignment-1)
