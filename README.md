@@ -10,9 +10,9 @@ Before this lesson , we recommend you go through
 ## Learning Objectives
 
 After this lesson, you'll be able to
-* Us Git
-* Us GitHub
-* Us Git and GitHub
+* Use Git
+* Use GitHub
+* Use Git and GitHub
 
 ## Agenda
 
