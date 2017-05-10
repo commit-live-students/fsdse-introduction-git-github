@@ -1,5 +1,3 @@
-# fsdse-git-github
-
 ![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/logo.png)
 
 ## Lets Get Rolling - Student Pre-Read
@@ -24,7 +22,7 @@ After this lesson, you'll be able to
 * Assorted Tips
 
 ## Slides
-@[gslides](1X206Yg3xph-S6zZuedxZ-_cmQC6vFgRbgIYR6_sXjS4)
+@[gslides](1Ybi0bXImYeN8kyMXFszoR6dZf-hYoscdGu9oxd1ziBE)
 
 ## Assignments
-* [Assignment 1](https://github.com/commit-live-students/fsdse-fsdse-git-github-assignment-1)
+* [Assignment 1](/lesson/fsdse-fsdse-git-github-assignment-1)
