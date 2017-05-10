@@ -25,4 +25,4 @@ After this lesson, you'll be able to
 @[gslides](1Ybi0bXImYeN8kyMXFszoR6dZf-hYoscdGu9oxd1ziBE)
 
 ## Assignments
-* [Assignment 1](/lesson/fsdse-fsdse-git-github-assignment-1)
+* [Assignment 1](/lesson/fsdse-git-github-assignment-1)
