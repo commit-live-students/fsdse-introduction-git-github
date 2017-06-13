@@ -1,6 +1,6 @@
 ![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/logo.png)
 
-## Lets Get Rolling - Student Pre-Read
+## Let's Get Rolling - Student Pre-Read
 Before this lesson , we recommend you go through
 * [Getting-Started-Version-Control](https://git-scm.com/book/id/v2/Getting-Started-About-Version-Control)
 * [Why Git](https://www.atlassian.com/git/tutorials/why-git)
